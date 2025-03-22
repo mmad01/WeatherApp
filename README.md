@@ -41,7 +41,7 @@ This app uses the **OpenWeatherMap API** for fetching weather data.
 - Get real-time weather updates & enjoy! 🌤️
 
 ## Screenshots 📸
-![WeatherApp Screenshot](https://your-image-link.com)
+![WeatherApp Screenshot](/images/screenshot.png)
 
 ## Roadmap 🛣️
 ✅ Basic weather functionality  
