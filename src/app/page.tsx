@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Header from "./components/header/Header";
 import LeftBar from "./components/leftBar/LeftBar";
 import Activities from "./components/activities/Activities";
